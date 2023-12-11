@@ -4,7 +4,7 @@ Hello! 👋 Welcome to my GitHub portfolio. I'm Julia, and I'm passionate androi
 
 ## Projects
 
-### [Task app](https://github.com/Maeglad/task-app)
+### [Task app](https://github.com/Maeglad/task-app) WIP
 - Simple application for managing tasks.
 - Technologies used: Kotlin, Compose, Hilt, MVVM, Room, Clean architecture
 
